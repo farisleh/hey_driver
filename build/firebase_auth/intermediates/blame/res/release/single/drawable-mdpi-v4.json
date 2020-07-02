@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\f4a3428be4b26204aa7346cce2e9a779\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\13d6e49a20f9ad0414ea39a2852563c3\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\13d6e49a20f9ad0414ea39a2852563c3\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\f4a3428be4b26204aa7346cce2e9a779\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\f4a3428be4b26204aa7346cce2e9a779\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\13d6e49a20f9ad0414ea39a2852563c3\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\f4a3428be4b26204aa7346cce2e9a779\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\13d6e49a20f9ad0414ea39a2852563c3\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\13d6e49a20f9ad0414ea39a2852563c3\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\f4a3428be4b26204aa7346cce2e9a779\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\f4a3428be4b26204aa7346cce2e9a779\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    }
+]

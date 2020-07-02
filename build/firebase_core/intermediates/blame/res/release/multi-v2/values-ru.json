@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\hey_driver\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\866009e9a225cb868774aff849285ae3\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "215",
+                        "endOffsets": "462"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "215",
+                        "endOffsets": "316"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\13d6e49a20f9ad0414ea39a2852563c3\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "321",
+                        "endColumns": "100",
+                        "endOffsets": "417"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\hey_driver\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\866009e9a225cb868774aff849285ae3\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "215",
+                        "endOffsets": "462"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "215",
+                        "endOffsets": "316"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\13d6e49a20f9ad0414ea39a2852563c3\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "321",
+                        "endColumns": "100",
+                        "endOffsets": "417"
+                    }
+                }
+            ]
+        }
+    ]
+}

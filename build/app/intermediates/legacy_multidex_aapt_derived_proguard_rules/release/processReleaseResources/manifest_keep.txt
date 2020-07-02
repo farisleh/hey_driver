@@ -1,0 +1,2 @@
+# Referenced at C:\hey_driver\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\x86_64\AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(...); }

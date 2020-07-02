@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675579844610",
+    "firebase_url": "https://heydriver-e2074.firebaseio.com",
+    "project_id": "heydriver-e2074",
+    "storage_bucket": "heydriver-e2074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675579844610:android:781e6f007a23338a13ef1b",
+        "android_client_info": {
+          "package_name": "com.faris.heydriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675579844610-gtsdqi0vsulgl4i4f9795ql7falvvf5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faris.heydriver",
+            "certificate_hash": "962a05fd89514644eb7decbdadccac7de5e28998"
+          }
+        },
+        {
+          "client_id": "675579844610-vnd15atbdt9iebllpmfhkeknf26h367i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupJwLNk6SaWYuRomlCb98SPh3w6dcxpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675579844610-vnd15atbdt9iebllpmfhkeknf26h367i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

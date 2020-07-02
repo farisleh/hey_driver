@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\hey_driver\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\8b9bc8aac163e1da53912c613bfc62ca\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\8b9bc8aac163e1da53912c613bfc62ca\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\hey_driver\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Faris Shukri\\.gradle\\caches\\transforms-2\\files-2.1\\8b9bc8aac163e1da53912c613bfc62ca\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    }
+]
